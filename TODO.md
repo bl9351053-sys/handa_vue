@@ -1,0 +1,4 @@
+- [ ] Add Gmail field to login_screen.dart
+- [ ] Update login function in login_screen.dart to handle email
+- [ ] Modify ApiService.login to accept email parameter
+- [ ] Check API connection for System-E_Admin
